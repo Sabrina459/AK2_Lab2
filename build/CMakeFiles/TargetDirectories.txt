@@ -1,0 +1,4 @@
+C:/Users/sabri/OneDrive/Документы/GitHub/calculator/build/CMakeFiles/calculator.dir
+C:/Users/sabri/OneDrive/Документы/GitHub/calculator/build/CMakeFiles/Lab2.dir
+C:/Users/sabri/OneDrive/Документы/GitHub/calculator/build/CMakeFiles/edit_cache.dir
+C:/Users/sabri/OneDrive/Документы/GitHub/calculator/build/CMakeFiles/rebuild_cache.dir
